@@ -1,0 +1,707 @@
+I just spent three months working at
+Lovable, a startup that went from zero
+turnover through to 200 million in 12
+months. And I saw all the things that
+most businesses get wrong and I'm going
+to give you the exact playbook that
+Lovable use to execute on that mission.
+My name is Chris Donley and I've built
+three businesses to north of 10 million
+in revenue and this channel is here to
+help you do the same. So, let's get into
+it.
+Using AI to help write code is steadily
+gaining ground. The pace is
+extraordinary. It was only 4 months ago.
+It was only back in July that you
+mentioned that you got a $100 million
+annual revenue run rate. Now that's
+doubled.
+So for those of you that don't know,
+Lovable is one of the fastest growing
+startups in history. It has enabled an
+entire generation of people who
+previously could not build software to
+be able to effectively vibe code and
+create new pieces of software. And so we
+have seen the rise of the non-technical
+founder. Historically, and I've been
+doing this for 15 years, historically
+founders were not building software
+themselves. They were hiring engineering
+teams. they were raising money and yet
+lovable has come along and it has
+leveled the playing field. It has
+allowed ordinary people to build
+incredible businesses. And so when the
+opportunity presented itself for me to
+go and actually work at Lovable, I just
+knew I had to take it. Now I've been a
+founder for 15 years. I've never
+actually had a job. So this was the
+How I Got The Job
+first job I'd ever had. And it came
+about in the most bizarre way ever. My
+previous seed investor from my company
+Lotty, which is now a large business,
+was the same investor at Lovable. and
+they were looking to scale their
+business and they were looking to do
+creator campaigns. They were looking to
+do education content to grow their user
+base. And my previous investor, who's a
+friend of mine, said, "You should meet
+Anton." And therefore, literally the
+next day, I had a phone call with him. I
+think he was super busy. He was like,
+"Hey, I've seen your profile. I've seen
+what you do. I'd love to talk to you
+about how to create content for Lovable
+and how do we get more people using the
+app. How do we educate more people?" And
+I just said, "Look, there's a lot I
+could do. I could help you do creator
+campaigns. I could help you launch an
+education style program to get people
+using the tool. And he was like, "Look,
+I'd love you to do that. When can you
+start?" And I was like, "Well, I'm not
+really working right now, so let's do
+this." So during the 3 months that I
+actually worked at Lovable, I was mainly
+focused on how to connect with creators
+that had big audiences who could promote
+Lovable, promote the tool, promote the
+things that they'd built, you know, put
+out to the audience, why this was such a
+revolutionary piece of technology. And
+then the second piece that I was working
+on significantly and I actually kicked
+off for them was a program called
+shipped which was effectively a cohort
+education style training program where
+we took thousands of people in and we
+The Creator Campaign Strategy
+taught them over a six week period how
+to actually build a piece of software or
+an app from scratch from the beginning.
+And so I did the first live broadcast to
+thousands of people and we literally
+explained to people how to find a great
+idea, you know, how to validate your
+business, how to scale, how to build
+software and the campaign was a huge
+success. And so importantly, I had
+unique access to the best team in the
+world doing things that no one's done
+before, executing playbooks that I've
+never witnessed ever. I've never seen a
+team move at the speed they have. I've
+never seen a team use technology in the
+way that they have or, you know, utilize
+audiences in the way that they have. And
+having seen that and been in the team
+and on the ground building that
+business, I'm going to give you a
+playbook of how you can use this to
+build your business.
+Spotting & Validating Massive Trends
+So the first thing to focus on is how to
+spot and how to validate a trend. And
+Lovable is the perfect example of this
+ever. And so what had happened before
+lovable? Well, chat GBT had happened and
+the world over was shocked, in awe,
+surprised. Chat GPT, maybe you've heard
+of it. If you haven't, then get ready.
+Do you use AI? I love GBT.
+And off the back of that, you had the
+evolution of no code tools. And so
+millions of people were using no code
+tools. And what lovable was able to do
+was to build something called GBT
+engineer. And millions of people were
+using this free GBT engineer to build
+software, to build landing pages, to
+build prototypes. And so they were able
+quite quickly to be able to use
+pre-existing technology to validate the
+demand for their space. And overnight
+they saw an explosion of users using
+their tool GBT engineer and then they
+were able to launch Lovable off the back
+of this incredible consumer demand. Now
+if we take a little bit of a step back
+and historically look at businesses, one
+of the most famous examples here is Jeff
+Bezos in like 95 spotting that internet
+usage was up 2 to 3,000% yearonear. And
+so he knew that he had to build a
+business in the internet space selling
+to consumers. But this isn't a new
+thing. This is happening all the time.
+You saw this with mobile phones
+happening where suddenly mobile phones
+were a new consumer product and millions
+of people had them the year afterwards
+which meant that business could sell to
+people with mobile phones. Then you had
+2008 the app store happened and suddenly
+businesses could sell through apps to
+Lovable's GPT Engineer Validation Hack
+consumers. And what is the big change
+that's happened recently? Obviously chat
+GBT happened and the world over has
+changed. Consumer demand has changed.
+And so how do you as an ordinary person
+capitalize on this? A few things that
+you can use. So first and foremost, I
+want you to think about consumer trends.
+I want you to try and spot things that
+are changing in the consumer dynamic
+that you might be able to build a
+business in that space. And so what I
+often do is I often go to Google and I
+actually search for what the big four
+consultancies are talking about. So
+KPMG, Deote, etc. And they're going to
+be spending millions in the creation of
+reports and data sets that are talking
+about consumer behavior. Other things
+you could use would be Google Trends or
+Exploding Topics. And what you're
+looking for is the same sort of insight
+that Jeff Basil's had, the same sort of
+insight that Lovable had, which is big
+consumer change. And in that consumer
+change, your job is to try and identify
+how you can position a business to ride
+the wave in the same way that Lovable
+has. Nothing in life is ever certain.
+And so, I have built businesses before
+that have taken off, that have become
+worth hundreds of millions. I've built
+businesses before that I was convinced
+were going to work, but didn't. The only
+thing in entrepreneurship that you can
+be 100% certain on is how much effort
+you put in to the thing that you're
+doing. And so the only variable you
+really have is your effort and your
+energy. And so I would focus on trends.
+I would focus on what's moving in the
+market and try and build a solution in
+it that your customer desperately needs,
+not just wants.
+Mission As A Weapon
+The second thing I want to focus on with
+Lovable is something that I think a lot
+of businesses really do get wrong, which
+is they were able to create such a big
+mission and they were able to weaponize
+that mission in such a powerful way that
+they not only galvanized the best team
+of people I've ever seen working in a
+startup, but they were able to galvanize
+millions of their consumers into being,
+you know, supportative of lovable and
+being lovable champions. And I think
+it's really important to study this. So
+what they were able to do is they were
+able to take the idea that founders had
+to be technical and turn it on its head.
+And so they were able to weaponize the
+idea that you can be a non-technical
+founder and you can build a business.
+Like you can go and do that thing. And
+so what they got within their community
+was millions of people being like, I'm
+going to build my own business. I don't
+need to be technical. I can vibe code.
+And by doing that they created this
+incredible vibe, confidence and momentum
+within their community. Also for their
+own team they were able to pull together
+the best people in the world who wanted
+to work on that mission who wanted to
+allow people to build businesses which
+became again something that pulls people
+out of other companies to come work for
+you. If they can so clearly see the
+mission you have, how you're going to
+achieve that mission and the idea that
+mission could grow, you're going to be
+able to pull the best people from the
+best companies in the world to come work
+Building Product Evangelists
+on your startup. So this is something
+called a counter mission and it's really
+important to build this so that you can
+galvanize that support and this isn't
+new. This is something that a lot of
+amazing companies have done throughout
+history. You can look at companies as
+recent as Monzo for example which were
+able to galvanize their audience behind
+the idea that banks were really
+expensive and banks were really slow and
+they charged interchange fees. But Monzo
+was new and it was for the customer and
+you know banks were very bad. And by
+that, Monzo, for anyone that remember,
+those coral cards was able to talk to
+millions of consumers and capture them
+like a bank never ever had before and I
+don't think necessarily has done since.
+And then there's companies like Spotify,
+for example, their whole mission at the
+beginning was about freeing and
+empowering artists to be able to produce
+their own music and create their own
+music, make their own money by
+streaming. And so again, in the early
+days of Spotify, they were able to act
+as the countermission to big record
+labels. And so as a founder, if you're
+sitting there thinking, you know, how do
+I create a counter mission? Your goal
+should be looking at the status quo,
+trying to match that with the consumer
+trend that we were talking about earlier
+and try and position yourself in a
+counter statement. And so lovable is the
+perfect example of this because history
+forever, Y Combinator, etc. has been
+telling you you have to be technical to
+build a business. And they said no,
+we're going to allow non-technical
+people to build software products using
+Ship Fast, Learn Fast Philosophy
+our tool.
+So the third lesson that I want to give
+you from lovable is a brutal focus on a
+players. And so an A player really is
+someone who's going to give every single
+thing that they have as well as come
+with a incredible skill set and
+efficiency. And there's that really
+famous saying from Steve Jobs where he
+says that A players hire A players and B
+players hire C players. And that's why
+it's so important to you as the founder
+and the entrepreneur that at the
+beginning of your business, you hire
+incredible people. And so before we
+talked about the big mission and we
+talked about a counter mission and these
+are the things that are so important to
+draw these A players in. A players don't
+want to go and work on, you know, SAS
+business number 57. A players want to go
+and work on a mission that can change
+the world. They want to go and work on
+something that's going to revolutionize
+the sector like Monzo, like Spotify. And
+I'll give you a personal example of how
+I did this in the last couple of years.
+So 5 years ago, my brother and I started
+a business called Lotty. Lotty was there
+to help people find care homes and to
+revolutionize the care sector. And it
+was the first time in my life that I've
+actually experienced so many A players
+wanting to come and work for us. They
+weren't there necessarily for the
+financial outcome. They were there cuz
+they cared about changing healthcare
+forever. And that brought to me people
+from Facebook, people from Google,
+people from all of these incredible
+companies who both wanted to be paid
+well and to make a lot of money through
+the equity of the company. but deeply
+deeply cared about that mission and so
+lovable did this so well they were able
+The 72-Hour Rule
+to take what is vibe coding and turn it
+into a revolution in allowing
+non-technical people to build software
+and I experienced this very specifically
+at lovable specifically their
+engineering team would ship and create
+new features not on a you know monthly
+basis or a weekly basis the team was on
+Slack honestly 24/7 discussing and
+iterating on customer feedback and ideas
+and they weren't talking about let's
+ship this on Monday or Thursday or
+Friday, they were like, "How do we ship
+this tomorrow?" And that's honestly what
+a players look like. They don't need
+handholding. They have autonomy. They
+know what they want to do. They can take
+a bit of risk and cuz they know that if
+they take the risk, they can fix the
+thing. And that's what you want in a
+startup. You want high autonomy, high
+agency people who want to work hard, who
+are driven by the mission, and are going
+to be the people that build the culture
+in your company that's going to then
+result in hiring more people. Because as
+the Steve Jobs saying goes, B players
+will hire C players and A players will
+hire A players. So the challenge of A
+players is that A players need the big
+mission. And so a lot of founders ask
+me, they're like, how do I attract A
+players to my business? You know, A
+players don't want to come work for me.
+And it's like the mission isn't big
+enough. Your clarity in delivering the
+mission isn't big enough. And you
+yourself are not directing people
+towards a big enough outcome for them to
+Community-First Product Development
+want to come and work for you. And so if
+you want to get people from Google and
+Facebook and like all these incredible
+companies to come and work for you, your
+small business, it needs a huge mission
+with like deep clarity around how you're
+going to achieve it and deep clarity
+about why that matters to them. The
+minute you achieve those things, people
+are going to come and want to work for
+you. The fourth point would be ship fast
+and learn fast. And so in software
+companies and technology companies in
+general, you see this evolution of their
+products. you know, they will develop
+over time. However, what I experienced
+at Lovable is an almost 24-hour cycle of
+we've heard this from the community,
+we've heard this from our customers. You
+know, whether it was a bug or a fix or
+whether a customer had given them a
+really good idea, the team would take
+that feedback immediately, they would
+distill it, they would talk about it,
+they would try and collect more feedback
+and within a 24-hour cycle, they would
+then iterate and release a new feature
+or an improvement or so forth. And that
+just means that as a team they are able
+to take a product from you know basic
+through to advanced in a matter of 30
+days. Whereas a normal company would
+debate it, they would think about it.
+They would design it. They would look at
+the design. They would you know move
+boxes around on pages. Whereas with
+lovable they were quite literally saying
+here's an amazing idea. Let's just build
+it and launch it and get feedback. And
+that is something that I took as a piece
+of feedback and as a and a general point
+for business moving forwards is that it
+is so much better to launch the thing as
+an MVP, get lots of feedback on it and
+then iterate and move forward rather
+than spend months and months and months
+planning. You want to get it out there
+and listen to how people are actually
+using it. This is simply referred to as
+the feedback loop which is really really
+straightforward. You simply ship a
+product. You ask your customers how
+they're using it and you track how
+they're using it. And then you take that
+information, iterate and improve and
+launch again. And you just keep doing
+that again and again. And what Lovable
+got right, which a lot of people don't,
+is they did all three parts of that.
+They did the I'm going to listen to what
+my community has to say. I'm also going
+to record and watch as people click
+through my products. And then I'm going
+to take both of those pieces of
+information, improve my product, and
+relaunch it and do the same thing again.
+This also builds on the point from
+before which is a big mission, a
+weaponized mission and shipping fast and
+learning fast. It also allows you to
+galvanize these product evangelists. You
+know, you're, you know, 100x customer,
+Hiring From Your Community
+the person who's going to talk about you
+every single day on their LinkedIn or on
+their ex or whatever. And that's because
+you're facilitating, listening to their
+feedback, and you're implementing it.
+And for them, that feels incredibly
+special. For them, they feel like they
+are part of the mission more than
+anything else. They feel like they are a
+driving force within the community. And
+I have never seen anything like the
+lovable community. Truthfully, I have
+been involved in maybe seven large
+businesses now that have all had some
+form of community. The lovable community
+is such high energy, such high
+conviction, and everyone feels like they
+are part of building that business. At
+this stage, a lot of people often ask
+me, do I need to build a community? Do I
+need to do content to build my business?
+And the honest truth is, you obviously
+don't have to. However, your choices are
+relatively limited because distribution
+is going to be the biggest challenge
+that your business has, especially now
+that companies like Lovable have lowered
+the barrier to being able to build
+software and ship landing pages and, you
+know, develop websites or whatever. You
+now have less levers at your disposal to
+be really successful. And so,
+distribution becomes one of those
+levers. And so, do you have to build a
+community? Do you have to make content?
+No. But if you don't, you're making it
+harder for yourself. If you form a great
+community and if you create great
+content that results in a lot of
+followers and it results in a lot of
+people checking out what you do, then
+you have built your own distribution and
+you've also built an audience of people
+who are predisposed to like a product
+that you build, predisposed to want to
+give feedback to a product you've built.
+And so this is something that I talk
+about a lot in general, which is when I
+launch a business, I am able to launch
+it to 1.1 million people on LinkedIn.
+I'm able to launch it to 300,000 people
+on my newsletter. And so immediately I'm
+able to get hundreds if not thousands of
+people to give me their opinion on a
+product or a feature that I ship. And
+that is so valuable. I cannot even put a
+price on how valuable that is. And so if
+I'm speaking directly to the founder
+here, I would say that it would be a
+huge missed opportunity not to create
+content and try and create community
+around your product because the value is
+found in so many areas from validation,
+from feedback, from product improvements
+and then ultimately people becoming as
+we spoke about earlier product
+evangelists. The last point I would just
+say on community and content is that by
+creating incredible content, creating an
+incredible community, you're actually
+going to find a lot of your future team
+members. And I saw that at Lovable, half
+the team had been in the Lovable
+community before they worked at Lovable.
+And I thought that was just so
+incredible because it means that when
+your team join you, they have context of
+you, they have context of the business,
+and from day one, they can add value as
+a customer. You don't have to teach them
+the product or teach them the sector.
+They're all in because they're already
+product users.
+Viral Mechanisms
+So the fifth thing I want to talk about
+with Lovable is their ability to use
+viral mechanisms. And so what is a viral
+mechanism? First and foremost, it is
+something that happens in the nature of
+using the product that makes other
+people see the product. And so you can
+think of this as you know Loom. If I
+send you a Loom, you not only see my
+video, but you see the product loom. If
+I was to send you a Zoom link, for
+example, you not only get an invitation
+to have a video call with me, but you
+get to see that Zoom is the provider of
+that. And we've got a million examples
+of this from Dropbox in the early days
+who said, "If you want more storage,
+invite a friend." From Uber to get $10
+to invite a friend to Uber. And so with
+Lovable, it's very similar. Their
+product is inherently viral in the sense
+that non-technical people want to show
+off the fact that they are creating
+software. And so they share it first and
+foremost. And so Lovable made it very
+easy for people to share their products
+and their projects and so forth, but
+also Lovable are very good at amplifying
+what is already a relatively viral
+product. And so how many of the ads
+you've seen from lovable are focused on
+this kid just rebuilt Docyign and
+Docyign are suing this kid for building
+this massively valuable company. And
+it's like they are very good at creating
+theater around viral moments within
+their product. And you see this all the
+time with like youngsters continuously
+sharing like Stripe dashboards. Now
+Stripe obviously for them that's amazing
+because the kid or the person I should
+say is showing off about the success of
+their business but at the same time
+they're simply sharing off uh Stripe.
+They're simply showing off Stripe which
+is really important. So when you're
+thinking about your business, you might
+not design your business necessarily
+around the viral moment. But you should
+look within your business and see if you
+can identify the viral moment that you
+The DocuSign Example
+have. So a lot of people at this stage
+ask like how do I create a viral
+mechanism for my business and obviously
+the businesses that have truly achieved
+this have been the ones that have gone
+on to become super successful but you
+can obviously find them in small moments
+in your business and so you can think of
+a viral loop and that could be that your
+customer is the CEO and the customer is
+going to send the report from your
+dashboard to his team and so immediately
+it has a viral mechanism in that it will
+get distributed throughout the team.
+I'll give you an example of my agency
+when I was 21. I made the luxury digital
+awards and by creating the luxury
+digital awards I was able to invite the
+25 best people within luxury digital to
+get these awards. They all shared it
+because they were so proud of the award
+that they had won and at the same time I
+then had these incredible luxury leaders
+talking about my business online. And so
+what you want to do is you want to look
+for these moments to either amplify them
+or to create them. And the obvious ones
+are things like referral schemes or you
+know sending a link from your product to
+someone else and they see the product as
+well as the thing that the customer is
+trying to show.
+Expanding Your TAM
+The last point and I genuinely think
+this is the reason that lovable have
+done so well is they have been able to
+expand their TAM and so by that I mean
+expand the amount of people that can use
+their tool and can consider themselves
+an engineer. And so importantly, they
+made the decision to make their product
+free so that you can use it up to about
+five credits a day. And five credits
+will allow you to do a few things. And
+to the non-technical person who never
+previously thought they were an
+engineer, suddenly thinks they're an
+engineer. Suddenly thinks that they can
+build software. And so they were able to
+expand the total addressable market by
+allowing anyone to sign up to their tool
+to build a quick landing page and
+suddenly think, "Wow, that was magical.
+Wow, maybe I can build software." And so
+importantly, if you're thinking about
+your business right now, you want to be
+able to get people to discover the
+business and then have that magic
+moment. So what is that magic moment?
+How do you cultivate that with your
+audience and then allow them to see it
+and experience it themselves? They truly
+were the best in the world at doing
+that. And so what I want you to take
+away from that point is time to value.
+How do you get your customer to
+experience value and do it in a way that
+it can be experienced in their first
+session? Think about the level example.
+They are allowing someone to build a
+landing page or a piece of software in
+quite literally one day, probably one
+sitting. And so, how can you break down
+your product to allow your customer to
+experience real value as fast as
+possible? So, after three incredibly
+The Magic Moment
+hardworking months, many late nights
+working with some of the best people I
+ever have, I made the quite crazy
+decision to leave, but is very much the
+case with this channel as well. I have
+taken the lessons that I've just told
+you about what I've learned from Lovable
+and I've put them into play in building
+a new business. So, I saw a massive
+consumer trend in the nature that no one
+is googling anything anymore. We are no
+longer looking to Google for the
+answers. People are now using chat GBT
+to find products and services. So, I was
+like, I'm going to build a business
+within this space. We want to ship fast.
+We want to learn fast. And so, I built a
+community of people off the back of my
+personal brand and built a Slack
+community of a,000 people and a weight
+list of 10,000 people. And every single
+time I developed a new feature or had an
+idea, I would ask the community what
+they thought. And so very quickly over
+the period of 100 days, we have massive
+How I'm Using This In My New Business
+product evangelists already. And I've
+also studied how to create viral
+mechanisms and how we can make the
+product accessible to so many more
+people and they can have quick time to
+value. And so what we did is we made it
+so that people could use the searchable
+agent to optimize their business and
+then quickly share it within their
+corporate work teams. And so now we have
+people saying, "Look at how much traffic
+we're getting from chatbt." and they're
+able to send those visibility reports to
+their colleagues and send the traffic
+increases to their colleagues. The last
+thing is the magic moment, that moment
+that people have where they go, "Wow,
+this is incredible." We actually allow
+people within Searchable to talk
+directly to their analytics and say,
+"Which pages do I get most of my revenue
+from and how can I increase my revenue?"
+And the machine that's trained on you
+starts to tell you. So, if you've
+enjoyed this video and the steps that
+I've given you that lovable views that
+I'm using now within my business, you
+should definitely check out this video
+that I've created on how to get to your
+first million in turnover in 2026.
