@@ -1,1 +1,28 @@
-
+mkdir -p research/linkedin-posts/justin-welsh
+mkdir -p research/linkedin-posts/lara-acosta
+mkdir -p research/linkedin-posts/richard-van-der-blom
+mkdir -p research/linkedin-posts/jasmin-alic
+mkdir -p research/linkedin-posts/matt-barker
+mkdir -p research/linkedin-posts/tibo-louis-lucas
+mkdir -p research/linkedin-posts/guillaume-moubeche
+mkdir -p research/linkedin-posts/sam-szuchan
+mkdir -p research/linkedin-posts/brendan-hufford
+mkdir -p research/linkedin-posts/chris-donnelly
+mkdir -p research/youtube-transcripts
+mkdir -p research/other
+/research/
+  sources.md                  → Full expert list with annotations and selection rationale
+  /linkedin-posts/            → Posts organized by author (manually collected)
+    justin-welsh/
+    lara-acosta/
+    richard-van-der-blom/
+    jasmin-alic/
+    matt-barker/
+    tibo-louis-lucas/
+    guillaume-moubeche/
+    sam-szuchan/
+    brendan-hufford/
+    chris-donnelly/
+  /youtube-transcripts/       → Video transcripts organized by creator
+  /other/                     → Collection scripts and supplementary materials
+  

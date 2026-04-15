@@ -1,0 +1,126 @@
+"""
+get_transcripts.py
+------------------
+Collects YouTube video transcripts for LinkedIn content strategy research.
+Uses youtube-transcript-api (no API key needed for public videos).
+
+Usage:
+    pip install youtube-transcript-api
+    python get_transcripts.py
+"""
+
+from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFound
+import os
+import re
+
+# ---------------------------------------------------------------------------
+# Target videos — update URLs as you find relevant content from each creator
+# ---------------------------------------------------------------------------
+VIDEOS = [
+    {
+        "creator": "justin-welsh",
+        "video_id": "YOUR_VIDEO_ID_HERE",  # e.g. "dQw4w9WgXcQ" from youtube.com/watch?v=dQw4w9WgXcQ
+        "title": "How I Built a $1M Business on LinkedIn"
+    },
+    {
+        "creator": "lara-acosta",
+        "video_id": "YOUR_VIDEO_ID_HERE",
+        "title": "LinkedIn Growth Strategy for Beginners"
+    },
+    {
+        "creator": "guillaume-moubeche",
+        "video_id": "YOUR_VIDEO_ID_HERE",
+        "title": "How We Used LinkedIn to Grow Lemlist"
+    },
+    {
+        "creator": "brendan-hufford",
+        "video_id": "YOUR_VIDEO_ID_HERE",
+        "title": "B2B SaaS LinkedIn Content Strategy"
+    },
+    # Add more as needed
+]
+
+OUTPUT_DIR = "../youtube-transcripts"
+
+
+def sanitize_filename(name: str) -> str:
+    return re.sub(r"[^\w\-]", "_", name).lower()
+
+
+def get_transcript(video_id: str) -> list[dict] | None:
+    try:
+        return YouTubeTranscriptApi.get_transcript(video_id, languages=["en"])
+    except TranscriptsDisabled:
+        print(f"  ⚠ Transcripts disabled for {video_id}")
+        return None
+    except NoTranscriptFound:
+        print(f"  ⚠ No English transcript found for {video_id}")
+        return None
+    except Exception as e:
+        print(f"  ✗ Error for {video_id}: {e}")
+        return None
+
+
+def format_transcript(transcript: list[dict]) -> str:
+    lines = []
+    for entry in transcript:
+        start = int(entry["start"])
+        minutes, seconds = divmod(start, 60)
+        timestamp = f"[{minutes:02d}:{seconds:02d}]"
+        lines.append(f"{timestamp} {entry['text']}")
+    return "\n".join(lines)
+
+
+def save_transcript(creator: str, title: str, video_id: str, transcript_text: str):
+    creator_dir = os.path.join(OUTPUT_DIR, creator)
+    os.makedirs(creator_dir, exist_ok=True)
+
+    filename = sanitize_filename(title) + ".md"
+    filepath = os.path.join(creator_dir, filename)
+
+    content = f"""# {title}
+
+**Creator:** {creator}  
+**Video ID:** {video_id}  
+**URL:** https://www.youtube.com/watch?v={video_id}  
+**Collected:** Wednesday, April 15, 2026
+
+---
+
+## Transcript
+
+{transcript_text}
+"""
+
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print(f"  ✓ Saved: {filepath}")
+
+
+def main():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print(f"Saving transcripts to: {os.path.abspath(OUTPUT_DIR)}\n")
+
+    for video in VIDEOS:
+        creator = video["creator"]
+        video_id = video["video_id"]
+        title = video["title"]
+
+        if video_id == "YOUR_VIDEO_ID_HERE":
+            print(f"[SKIP] {creator} — video ID not set yet")
+            continue
+
+        print(f"[{creator}] Fetching: {title}")
+        transcript = get_transcript(video_id)
+
+        if transcript:
+            text = format_transcript(transcript)
+            save_transcript(creator, title, video_id, text)
+
+
+if __name__ == "__main__":
+    main()git add .
+   git commit -m "Add research structure and expert sources"
+   git push
